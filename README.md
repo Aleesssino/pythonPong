@@ -1,2 +1,2 @@
 # pythonPong
-classic Pong game i
+classic Pong game 
